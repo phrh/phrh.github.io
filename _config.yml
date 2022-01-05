@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: ["Vargas-Garcia", "Vargas-García"]
-  first_name: ["Cesar", "César"]
+  last_name: Vargas-Garcia
+  first_name: [Cesar, C.]
 
   style: apa
   locale: en
