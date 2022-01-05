@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: D33A69E5-305E-4102-8CF6-F84EED9361B8.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kilomentro 14 vía Mosquera-Bogotá</p>
+    <p>Oficina 314, Edificio la Palma</p>
+    <p>Mosquera, Cundinamarca, Colombia</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
