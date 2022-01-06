@@ -136,8 +136,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - blog
-  - _post
 keep_files:
   - CNAME
   - .nojekyll
