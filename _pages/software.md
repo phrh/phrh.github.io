@@ -1,5 +1,5 @@
 ---
-layout: software    
+layout: page    
 title: software
 permalink: /software/
 nav: true
