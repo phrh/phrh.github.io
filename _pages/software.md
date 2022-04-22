@@ -1,6 +1,7 @@
 ---
 layout: software    
 title: software
+permalink: /software/
 nav: true
 ---
 
