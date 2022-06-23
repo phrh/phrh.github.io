@@ -5,7 +5,14 @@ permalink: /research/
 nav: true
 ---
 
-## Single-cell size dynamics
-Imagine a single cell growing at a given rate and then, suddenly out of blue, it divides its size in two. Is this random? is there an internal clock, a size sensing mechanisms or any control that fires such abrupt change? Our team study the division phenomena through the following partial differential equation (PDE)
+### Colombian national germplasm bank genotyping platform
+I am part of the team that developed a genotyping platform to characterize the accessions conserved at the genebank, study diversity and do phenotype-genotype association studies. 
 
-$$\frac{\partial p\left(z, t \mid y, t^{\prime}\right)}{\partial t}=- \frac{\partial}{\partial z} \left [ \alpha \,z\, p\left(z, t \mid y, t^{\prime}\right)\right]+2\, k\, z \,p\left(2z, t \mid y, t^{\prime}\right)-k\, z\,p\left(z, t \mid y, t^{\prime}\right)$$
+### Colombian national germplasm bank information system
+I lead the team that has been working on organizing the Colombian Plant Germplasm Bank information in the GRIN-Global information system.
+
+### Soil chemical property estimation from vis-NIRS and satellite imagery 
+I am part of the team that has been working on evaluating the viability and uncertainty of using different technologies (vis-NIRS and satellite imagery) and machine learning to estimate soil chemical properties.
+
+
+## Phenotyping field collections by using UAV

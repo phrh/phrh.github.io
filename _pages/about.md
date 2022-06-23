@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: <a href='https://agriperfiles.agri-d.net/display/AS52992302'>Affiliations</a>
 
 profile:
   align: right
-  image: D33A69E5-305E-4102-8CF6-F84EED9361B8.jpeg
+  image: paula_reyes.jpg
   address: >
     <p>Kilomentro 14 vía Mosquera-Bogotá</p>
-    <p>Oficina 314, Edificio la Palma</p>
     <p>Mosquera, Cundinamarca, Colombia</p>
 
 news: false  # includes a list of news items
@@ -17,9 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The most striking feature of life on earth is its diversity. I'm aware of the central role of biology in understanding how biodiversity arose, how it is maintained, what are its consequences, and how we should conserve it. However, since the study of biodiversity could be overwhelming, I'm interested in new ways in which mathematical modeling might help in guiding in the selection of the next research question to solve. In particular, I'm interested in:
 
-- Biological data analysis through mathematical frameworks such as those used in machine learning (PCA, Tensor analysis, etc.)
-- Mathematical modeling, using frameworks like ordinary differential equations (ODE), stochastic processes (hybrid systems, Markov processes, SDEs).
+I am a bioinformatician. I have a background in electronic engineering and a profound interest in biology. Since 2015, I have been working in the agriculture and livestock sector. 
 
-Biological problems I'm passionate by range from the study of interactions between hosts and pathogens at inter-cellular level, to the dynamics of a given molecule at the single-cell level.
+I have developed computational tools to predict associations in genomic data on algorithms for post-transcriptional gene regulation, genotyping and variant detection, and genotype and phenotype association. In 2015 I joined AGROSAVIA, and I have worked first at the Colombian National Germplasm Bank in the information system and second on a Genotyping platform for the Bank. Currently, I am working on plant genome assembly. 
+
+Even though my main interests are in agrigenomics and studying Colombian diversity, I also look forward to integrating information technologies (including AI) into the Colombian agricultural sector. 
+
